@@ -80,7 +80,7 @@ gems:
 theme: 'jekyll-theme-cayman'
 
 prose:
-	media: 'images'
+  media: 'images'
 
 # Exclude these files from your production _site
 exclude:
