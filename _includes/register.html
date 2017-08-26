@@ -33,6 +33,7 @@
     }
     // register function
     $('#register').submit(function(event){
+      event.preventDefault()
       var email = $("#email").val();
       var first = $("#first").val();
       $("#form-error").prop('hidden', true)
