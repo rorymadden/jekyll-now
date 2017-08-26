@@ -18,37 +18,50 @@
         return true;
       }
     }
-  // register function
-  $('#register').submit(function(event){
-    var $form = $(this);
-    var email = $("#email").val();
-    
-    if(!email) {
-      // show the email error
+    //check function for first name
+    var checkEmail = function () {
+      var email = $("#email").val();
+      if(!email) {
+        // show the first error
+        $("#form-error").prop('hidden', true)
+        return false;
+      }
+      else {
+        //hide the first error
+        $("#form-error").prop('hidden', false)
+        return true;
+      }
     }
-    if(first && email) {
-      $form.find('#registerButton').prop('disabled', true);
-    }
-    //hide the first / email errors on input
-    
-    
-    //get the value of the login email
-	
-    
-    //get the value of the password
-    
-    
-     
-    console.log(login, password);
-    register(login, password);
-    
-    return false;
-  })  
+    // register function
+    $('#register').submit(function(event){
+      var $form = $(this);
+	  // check form details
+      if(checkFirst() && checkEmail()) {
+        $form.find('#registerButton').prop('disabled', true);
+        
+      }
+      //hide the first / email errors on input
+
+
+      //get the value of the login email
+
+
+      //get the value of the password
+
+
+
+      console.log(login, password);
+      register(login, password);
+
+      return false;
+    })
+  })
 </script>
 
 <form id="register">
   <input type="text" placeholder="First Name" id="first">
   <input type="email" placeholder="Email" id="email">
-  <p id="form-error" hidden>You must enter a 
+  <p id="form-error" hidden>You must enter a First Name and an Email address</p>
   <input id="registerButton" name="registerButton" type="submit" value="Register">
 </form>
+<p id="form-success" hidden>Thank you. We'll keep you up to date with new articles</p>
