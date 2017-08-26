@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -234,6 +234,9 @@ nav {
       margin: 0 10px;
       color: $blue;
     }
+  }
+  a.highlight-link {
+  	color: $uxdxBlue;
   }
 }
 
