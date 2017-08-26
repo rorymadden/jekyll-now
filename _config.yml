@@ -23,18 +23,18 @@ footer-links:
   flickr:
   github: 
   instagram:
-  linkedin:
+  linkedin: uxdx
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: uxdxconf
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/uxdx
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: uxdxblog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -76,8 +76,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-theme: jekyll-theme-cayman
 
 prose:
   media: 'images'
