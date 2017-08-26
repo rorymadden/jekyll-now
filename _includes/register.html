@@ -1,7 +1,5 @@
 <script>
   $(function(){
-    //make a variable to keep track of data coming from firebase
-    var data= [];
   	//create new connection to firebase
 	var ref= new Firebase('https://data-application1.firebaseio.com/activities');
     //check function for first name
@@ -9,12 +7,12 @@
       var first = $("#first").val();
       if(!first) {
         // show the first error
-        $("#form-error").prop('hidden', true)
+        $("#form-invalid").prop('hidden', true)
         return false;
       }
       else {
         //hide the first error
-        $("#form-error").prop('hidden', false)
+        $("#form-invalid").prop('hidden', false)
         return true;
       }
     }
@@ -22,28 +20,35 @@
     var checkEmail = function () {
       var emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]‌​{0,61}[a-zA-Z0-9])?(‌​?:\.[a-zA-Z0-9](?:[a‌​-zA-Z0-9-]{0,61}[a-z‌​A-Z0-9])?)*$/
       var email = $("#email").val();
-      if(!email && email.match(emailRegex)) {
+      if(!email || email.match(emailRegex)) {
         // show the first error
-        $("#form-error").prop('hidden', true)
+        $("#form-invalid").prop('hidden', true)
         return false;
       }
       else {
         //hide the first error
-        $("#form-error").prop('hidden', false)
+        $("#form-invalid").prop('hidden', false)
         return true;
       }
     }
     // register function
     $('#register').submit(function(event){
+      $("#form-error").prop('hidden', true)
       var $form = $(this);
 	  // check form details
       if(checkFirst() && checkEmail()) {
-        $form.prop('hidden', true);
-        $("form-success").prop('hidden', false);
-        
+        ref.set(data, function(err){
+          if(err){
+        	$("#form-error").prop('hidden', false)
+      		return;
+          }
+          else { 
+            $form.prop('hidden', true);
+            $("form-success").prop('hidden', false);
+      		return;
+          }
+        });
       }
-
-      return;
     })
   })
 </script>
@@ -51,7 +56,7 @@
 <form id="register">
   <input type="text" placeholder="First Name" id="first">
   <input type="email" placeholder="Email" id="email">
-  <p id="form-error" hidden>You must enter a First Name and an Email address</p>
+  <p id="form-invalid" hidden>You must enter a First Name and an Email address</p>
   <input id="registerButton" name="registerButton" type="submit" value="Register">
 </form>
 <p id="form-success" hidden>Thank you. We'll keep you up to date with new articles</p>
