@@ -20,8 +20,9 @@
     }
     //check function for first name
     var checkEmail = function () {
+      var emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]‌​{0,61}[a-zA-Z0-9])?(‌​?:\.[a-zA-Z0-9](?:[a‌​-zA-Z0-9-]{0,61}[a-z‌​A-Z0-9])?)*$/
       var email = $("#email").val();
-      if(!email) {
+      if(!email && email.match(emailRegex)) {
         // show the first error
         $("#form-error").prop('hidden', true)
         return false;
@@ -37,23 +38,12 @@
       var $form = $(this);
 	  // check form details
       if(checkFirst() && checkEmail()) {
-        $form.find('#registerButton').prop('disabled', true);
+        $form.prop('hidden', true);
+        $("form-success").prop('hidden', false);
         
       }
-      //hide the first / email errors on input
 
-
-      //get the value of the login email
-
-
-      //get the value of the password
-
-
-
-      console.log(login, password);
-      register(login, password);
-
-      return false;
+      return;
     })
   })
 </script>
