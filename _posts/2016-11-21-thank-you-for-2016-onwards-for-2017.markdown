@@ -11,6 +11,7 @@ tags:
   - uxdx-2017
 published: true
 author: Rory Madden
+banner: ../images/logo.svg
 ---
 
 
