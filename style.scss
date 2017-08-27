@@ -304,24 +304,16 @@ footer {
     -webkit-border-radius: 5px;
     border-radius:6px;
     color: #fff;
-    font-family: 'Oswald';
     font-size: 20px;
     text-decoration: none;
     cursor: pointer;
     border:none;
     width: 100%;
-  }
-}
-
-@media(min-width: 640px) {
-  .register-section {
-    button {
+    @media screen and (max-width: 640px) {
       width: auto;
     }
   }
 }
-
-
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
