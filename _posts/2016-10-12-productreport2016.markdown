@@ -53,7 +53,7 @@ Minister Mary Mitchell O’Connor said: “One of the most interesting facts I r
 
 ![alt](/content/images/2016/10/Rory.jpg)
 
-#Key Findings
+# Key Findings
 
 * 60% of respondents received a pay rise in the past year.
 
