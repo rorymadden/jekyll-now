@@ -1,10 +1,14 @@
 ---
 layout: default
+published: true
 ---
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+      {% if post.banner != null %}
+        <img src="{{ site.baseurl }}/images/{{post.banner}}" class="page-banner">
+      {% endif %}
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
