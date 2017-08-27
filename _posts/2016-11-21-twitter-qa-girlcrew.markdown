@@ -15,6 +15,7 @@ Girl Crew began as just another Facebook group page set up in Ireland and has be
 
 ### How did GirlCrew come together?
 @elvacarri started things off one Fri night when friends were busy, bored she turned to @Tinder to find new friends to go out dancing with. I joined as a member and saw a chance to make the experience more streamlined. I got chatting with Elva and joined the team... very informal at this stage… a few months later @elvacarri & @PamIrishTimes met at @WebSummit Surf Summit in Mayo, she was looking for a project to get involved with. To see if we could work together we went away for a (wet) weekend and talked through plans and projects. We hit it off and @GirlCrewHQ was born.
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/cathfee">@cathfee</a> <a href="https://twitter.com/uxdxconf">@uxdxconf</a> People love the community/spirit of it, everyone is welcome. We&#39;re built on the principle of respect…<a href="https://twitter.com/hashtag/AskGirlCrew?src=hash">#AskGirlCrew</a></p>&mdash; GirlCrew HQ (@GirlCrewHQ) <a href="https://twitter.com/GirlCrewHQ/status/790925895225733120">October 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -53,7 +54,7 @@ Ask for help and #network - that's almost a job in itself as not all events are 
 Yes and no. I did Arts but I'm now in tech - so loads of transferable skills, but not so many core "business" ones. They can be learnt though! 3rd level is great for teaching problem solving & critical thinking. You may need to be creative in the application of your skillset.
 
 ### How can guys get involved and spread the word? 
-We've a guys & girls page in Dublin with over 6k members, and we're always on the hunt for collaborations! https://www.facebook.com/groups/GCDublin.Mixed.Events/
+We've a guys & girls page in Dublin with over 6k members, and we're always on the hunt for collaborations! [https://www.facebook.com/groups/GCDublin.Mixed.Events/](https://www.facebook.com/groups/GCDublin.Mixed.Events/)
 
 ### From a startup perspective, what has been your biggest learning?
 It's been a total rollercoaster! We've met amazing people like Mark Zuckerberg @sherylsandberg but we've hit roadblocks… you need to be prepared for that, people say it but in reality it's true. It's not a 9-5 life, and you need to think on your feet.
@@ -62,6 +63,6 @@ It's been a total rollercoaster! We've met amazing people like Mark Zuckerberg @
 People love the community and the spirit of it, there's no judgement so everyone is welcome. We're built on the principle of respect. It's nice to hear women of all ages find friends, jobs, houses, mentors, advice through our network
 
 ### Obvious question. Where do we start. How do we find our Crew? 
-That's easy, you can find the list of groups here http://www.girlcrew.com/find-your-crew/ or for #Dublin by messaging us at GirlCrew HQ on Facebook.
+That's easy, you can find the list of groups here [http://www.girlcrew.com/find-your-crew/](http://www.girlcrew.com/find-your-crew/) or for #Dublin by messaging us at GirlCrew HQ on Facebook.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/uxdxconf">@uxdxconf</a> That&#39;s easy, you can find the list of groups here <a href="https://t.co/MQi0YSVwrJ">https://t.co/MQi0YSVwrJ</a> or for <a href="https://twitter.com/hashtag/Dublin?src=hash">#Dublin</a> by msging us  on Facebook <a href="https://twitter.com/hashtag/AskGirlCrew?src=hash">#AskGirlCrew</a></p>&mdash; GirlCrew HQ (@GirlCrewHQ) <a href="https://twitter.com/GirlCrewHQ/status/790928472625573888">October 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
