@@ -3,9 +3,10 @@ layout: post
 title: 'Twitter Q & A: Áine Mulloy - The Girl Behind One of Facebook''s Success Stories'
 date: '2016-11-21 09:52:53'
 tags:
-- girlcrew
-- twitterqanda
-- aine-mulloy
+  - girlcrew
+  - twitterqanda
+  - aine-mulloy
+published: true
 ---
 
 Girl Crew began as just another Facebook group page set up in Ireland and has become a huge success among women all over the globe. Being lauded as one of Facebook's success stories of the last year, we were more than excited to organise Twitter Q & A with Áine Mulloy, GirlCrew’s CoFounder and Head of Marketing. If you missed the live session on Twitter, you have a chance to catch up now.
