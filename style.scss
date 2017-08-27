@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 1000px;
+  max-width: 100%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -119,6 +119,11 @@ img {
   // font-style: italic;
   color: $gray;
   font-size: 0.9rem;
+}
+
+.page-banner {
+  max-width: 1000px;
+  margin-left: -130px;
 }
 
 // Specify the color of the selection
