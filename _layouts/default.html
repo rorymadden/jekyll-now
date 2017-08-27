@@ -38,12 +38,12 @@
          console.log('first', first, !first);
         if(!first) {
           // show the first error
-          document.getElementById("form-invalid").setAttribute('hidden', true);
+          document.getElementById("form-invalid").removeAttribute('hidden');
           return false;
         }
         else {
           //hide the first error
-          document.getElementById("form-invalid").removeAttribute('hidden');
+          document.getElementById("form-invalid").setAttribute('hidden', true);
           return true;
         }
       }
@@ -55,12 +55,12 @@
         
         if(!email || email.match(emailRegex)) {
           // show the first error
-          document.getElementById("form-invalid").setAttribute('hidden', true);
+          document.getElementById("form-invalid").removeAttribute('hidden');
           return false;
         }
         else {
           //hide the first error
-          document.getElementById("form-invalid").removeAttribute('hidden');
+          document.getElementById("form-invalid").setAttribute('hidden', true);
           return true;
         }
       }
