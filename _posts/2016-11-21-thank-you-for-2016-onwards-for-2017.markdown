@@ -11,7 +11,7 @@ tags:
   - uxdx-2017
 published: true
 author: Rory Madden
-banner: UXDXconfCrowd.jpg
+banner: headers/UXDXconfCrowd.jpg
 ---
 
 
