@@ -293,8 +293,11 @@ footer {
   text-align: center;
   
   h2 {
-  margin-top: 0px;
+    margin-top: 0px;
   	color: white;
+  }
+  h3 {
+  	color: $gray;
   }
   input {
     padding: 10px;
