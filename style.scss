@@ -116,9 +116,14 @@ img {
 }
 
 .date {
-  font-style: italic;
+  // font-style: italic;
   color: $gray;
+  font-size: 0.9rem;
 }
+
+.page-banner {
+	width: 100%;
+    }
 
 // Specify the color of the selection
 ::-moz-selection {
