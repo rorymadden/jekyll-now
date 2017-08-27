@@ -22,19 +22,20 @@ Girl Crew began as just another Facebook group page set up in Ireland and has be
 ### Tell us a bit about your background and career to date?
 I did my BA and MA in @nuigalway and I wanted a career as a #literaryagent. From there I interned at @AshvilleTeam before landing a job @edco_ie. I stayed at @edco_ie for 3+ yrs, but earlier this year a chance came up at Gill Books so I interviewed. I was down to 2nd round but it wasn't to be… @GirlCrewHQ was growing fast, so withdrew my application to Gill Books and handed in my notice @edco_ie on the same day!
 
-###Why did you get involved? 
+### Why did you get involved? 
 Loved the concept behind @GirlCrewHQ and it was something I was looking for at that time so could see the need for it.
 
-###What inspires you in your work?
+### What inspires you in your work?
 Seeing the community grow and evolve is great, it's such a positive space and negates so many female stereotypes
 
-###What is the vision for the future?
+### What is the vision for the future?
 We aim to be the largest female network in the world, so that no woman is left behind.
 
-###How many people are currently on the GirlCrew team?
+### How many people are currently on the GirlCrew team?
 We're small, but fierce - 3 co-founders, 1 junior dev, & hiring for #leaddev role at the moment. We also have roughly 100 volunteers, who we love! 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/uxdxconf">@uxdxconf</a> It&#39;s been a rollercoaster! We&#39;ve met amazing people like Mark Zuckerberg <a href="https://twitter.com/sherylsandberg">@sherylsandberg</a> bt we&#39;ve hit roadblocks... <a href="https://twitter.com/hashtag/AskGirlCrew?src=hash">#AskGirlCrew</a></p>&mdash; GirlCrew HQ (@GirlCrewHQ) <a href="https://twitter.com/GirlCrewHQ/status/790925108495970304">October 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### How big is GirlCrew currently? 
 Right now, we've groups in over 40 cities, but this is growing with location requests coming in all the time.
 
