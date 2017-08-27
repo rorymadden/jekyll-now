@@ -300,6 +300,15 @@ footer {
     background-color: $uxdxBlue;
     padding: 10px;
     margin: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
   }
 }
 
