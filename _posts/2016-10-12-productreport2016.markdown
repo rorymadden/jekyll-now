@@ -87,4 +87,4 @@ Conference: UXDX - User Experience, Developer Experience
 
 UXDX is supported by: the Department of Jobs, Enterprise and Innovation, Frontend.com, FR Kelly, Optimal Workshop, Viatel, Next Generation, Dublin UX and the Digital Hub.
 
-For further information: Catherine Madden, director, +353 1 598 1838 [mailto:catherine.madden@uxdxconf.com](catherine.madden@uxdxconf.com)
+For further information: Catherine Madden, director, +353 1 598 1838 [catherine.madden@uxdxconf.com](mailto:catherine.madden@uxdxconf.com)
