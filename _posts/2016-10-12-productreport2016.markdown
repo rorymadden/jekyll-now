@@ -1,19 +1,21 @@
 ---
 layout: post
-title: 'Irish Product Industry Report Launched by Minister: Concern Rises Over Gender
-  Gap'
+title: >-
+  Irish Product Industry Report Launched by Minister: Concern Rises Over Gender
+  Gap
 date: '2016-10-12 19:53:52'
 tags:
-- product
-- future-design
-- design
-- web-development
-- salary
-- survey
-- industry
-- report
-- challenges
-- ireland
+  - product
+  - future-design
+  - design
+  - web-development
+  - salary
+  - survey
+  - industry
+  - report
+  - challenges
+  - ireland
+published: true
 ---
 
 Some 60% of Irish tech workers received a pay rise in the past year, 39% of tech workers have a master’s degree, and there is a stark salary gap between men and women in the tech industry in Ireland: All these have been revealed in the UXDX Product Design & Development Industry Report, published today.
@@ -73,16 +75,16 @@ Minister Mary Mitchell O’Connor said: “One of the most interesting facts I r
 
 
 
-###About UXDX:
+### About UXDX:
 
 Date/venue: RDS, Dublin, 2 November 2016.
 Conference: UXDX - User Experience, Developer Experience
 
-######Tickets available now
+###### Tickets available now
 
 
-*Full lineup on <http://www.uxdxconf.com/>* 
+*Full lineup on [http://www.uxdxconf.com/](http://www.uxdxconf.com/)* 
 
 UXDX is supported by: the Department of Jobs, Enterprise and Innovation, Frontend.com, FR Kelly, Optimal Workshop, Viatel, Next Generation, Dublin UX and the Digital Hub.
 
-For further information: Catherine Madden, director, +353 1 598 1838 <mailto:catherine.madden@uxdxconf.com>
+For further information: Catherine Madden, director, +353 1 598 1838 [mailto:catherine.madden@uxdxconf.com](catherine.madden@uxdxconf.com)
