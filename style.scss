@@ -108,12 +108,11 @@ strong, b {
 
 img {
   max-width: 100%;
-  
-  @media screen and (min-width: 810px) {
-    .page-banner {
-      max-width: 110%;
-      margin-left: -5%;
-    }
+}
+@media screen and (min-width: 810px) {
+  .page-banner {
+    max-width: 110%;
+    margin-left: -5%;
   }
 }
 
