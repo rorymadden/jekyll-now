@@ -30,7 +30,7 @@
       firebase.initializeApp(config);
 
       //create new connection to firebase
-      var ref= firebase.database.ref('conferences/UXDX/locations/Dublin/2017/emails/attendees');
+      var ref= firebase.database().ref('conferences/UXDX/locations/Dublin/2017/emails/attendees');
       
       //check function for first name
       var checkFirst = function () {
