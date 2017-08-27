@@ -313,6 +313,14 @@ footer {
   }
 }
 
+@media(min-width: 640px) {
+  .register-section {
+    button {
+      width: auto;
+    }
+  }
+}
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
