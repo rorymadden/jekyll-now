@@ -72,8 +72,12 @@
         var email = document.getElementById("email").value;
         var first = document.getElementById("first").value;
         document.getElementById("form-error").setAttribute('hidden', true);
+        
+        var validFirst = checkFirst();
+        var validEmail = checkEmail();
+        
         // check form details
-        if(checkFirst() && checkEmail()) {
+        if(validFirst && validEmail) {
           ref.set({
               firstName: first,
               email: email
