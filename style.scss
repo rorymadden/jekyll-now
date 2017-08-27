@@ -301,16 +301,14 @@ footer {
     margin: 10px;
   }
   button {
+  	display: block;
+  	margin: auto;
     background-color: $uxdxBlue;
     padding: 10px;
-    margin: 10px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius:6px;
+    margin-top: 20px;
     color: #fff;
     font-size: 20px;
     text-decoration: none;
-    cursor: pointer;
     border:none;
     width: 100%;
     @media screen and (min-width: 640px) {
