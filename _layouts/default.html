@@ -51,6 +51,8 @@
       var checkEmail = function () {
         var emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]‌​{0,61}[a-zA-Z0-9])?(‌​?:\.[a-zA-Z0-9](?:[a‌​-zA-Z0-9-]{0,61}[a-z‌​A-Z0-9])?)*$/
         var email = document.getElementById("email").value;
+        
+         console.log('email', email, email.match(emailRegex));
         if(!email || email.match(emailRegex)) {
           // show the first error
           document.getElementById("form-invalid").setAttribute('hidden', true);
@@ -66,7 +68,6 @@
       
       // register function
       var registerUser = function () {
-        console.log('called');
         var email = document.getElementById("email").value;
         var first = document.getElementById("first").value;
         document.getElementById("form-error").setAttribute('hidden', true);
