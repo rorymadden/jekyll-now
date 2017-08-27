@@ -1,5 +1,5 @@
 <h2>Want to keep up to date with the latest in UXDX?</h2>
-<form id="register">
+<form id="register" onsumbit="event.preventDefault(); registerUser();">
   <input type="text" placeholder="First Name" id="first">
   <input type="email" placeholder="Email" id="email">
   <p id="form-invalid" hidden>You must enter a First Name and an Email address</p>
