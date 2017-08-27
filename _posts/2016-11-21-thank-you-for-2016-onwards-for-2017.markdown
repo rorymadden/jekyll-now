@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Thank You for 2016, Onwards for 2017!
+title: "Thank You\_for 2016, Onwards for 2017!"
 date: '2016-11-21 15:09:12'
 tags:
-- uxdx
-- uxdx-2016
-- conference
-- rds
-- dublin
-- uxdx-2017
+  - uxdx
+  - uxdx-2016
+  - conference
+  - rds
+  - dublin
+  - uxdx-2017
+published: true
+author: Rory Madden
 ---
 
 
