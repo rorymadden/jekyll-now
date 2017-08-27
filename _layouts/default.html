@@ -43,7 +43,7 @@
         }
         else {
           //hide the first error
-          document.getElementById("form-invalid").setAttribute('hidden', false);
+          document.getElementById("form-invalid").removeAttribute('hidden');
           return true;
         }
       }
@@ -53,7 +53,6 @@
         var emailRegex = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
         var email = document.getElementById("email").value;
         
-        console.log('email', email, email.match(emailRegex));
         if(!email || email.match(emailRegex)) {
           // show the first error
           document.getElementById("form-invalid").setAttribute('hidden', true);
@@ -61,7 +60,7 @@
         }
         else {
           //hide the first error
-          document.getElementById("form-invalid").setAttribute('hidden', false);
+          document.getElementById("form-invalid").removeAttribute('hidden');
           return true;
         }
       }
@@ -85,11 +84,11 @@
               email: email
           }, function(err){
             if(err){
-              document.getElementById("form-error").setAttribute('hidden', false);
+              document.getElementById("form-error").removeAttribute('hidden');
             }
             else { 
               document.getElementById("register").setAttribute('hidden', true);
-              document.getElementById("form-success").setAttribute('hidden', false);
+              document.getElementById("form-success").removeAttribute('hidden');
             }
           });
         }
