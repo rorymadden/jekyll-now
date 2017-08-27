@@ -8,6 +8,7 @@ tags:
   - aine-mulloy
 published: true
 author: Catherine Madden
+banner: headers/Twitter-Q---A-01.jpg
 ---
 
 Girl Crew began as just another Facebook group page set up in Ireland and has become a huge success among women all over the globe. Being lauded as one of Facebook's success stories of the last year, we were more than excited to organise Twitter Q & A with Áine Mulloy, GirlCrew’s CoFounder and Head of Marketing. If you missed the live session on Twitter, you have a chance to catch up now.
