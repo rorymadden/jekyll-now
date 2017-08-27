@@ -77,7 +77,7 @@ Minister Mary Mitchell O’Connor said: “One of the most interesting facts I r
 
 ### About UXDX:
 
-Date/venue: RDS, Dublin, 2 November 2016.
+Date/venue: RDS, Dublin, 2 November 2016.  
 Conference: UXDX - User Experience, Developer Experience
 
 ###### Tickets available now
