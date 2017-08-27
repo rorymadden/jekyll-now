@@ -2,8 +2,8 @@
 <form id="register" onsubmit="event.preventDefault(); registerUser();">
   <input type="text" placeholder="First Name" id="first">
   <input type="email" placeholder="Email" id="email">
-  <p id="form-invalid" hidden>You must enter a First Name and an Email address</p>
-  <p id="form-error" hidden>Error submitting the form - please try again</p>
+  <p id="form-invalid" hidden class="warning-text">You must enter a First Name and an Email address</p>
+  <p id="form-error" hidden class="warning-text">Error submitting the form - please try again</p>
   <button id="registerButton" name="registerButton" type="submit">Register</button>
 </form>
 <div id="form-success" hidden>
