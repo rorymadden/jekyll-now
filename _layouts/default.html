@@ -28,6 +28,69 @@
         databaseURL: "https://socmov-45ba2.firebaseio.com",
       };
       firebase.initializeApp(config);
+
+      //create new connection to firebase
+      var ref= firebase.database.ref('conferences/UXDX/locations/Dublin/2017/emails/attendees');
+      
+      //check function for first name
+      var checkFirst = function () {
+        var first = $("#first").val();
+        if(!first) {
+          // show the first error
+          $("#form-invalid").prop('hidden', true)
+          return false;
+        }
+        else {
+          //hide the first error
+          $("#form-invalid").prop('hidden', false)
+          return true;
+        }
+      }
+      
+      //check function for email
+      var checkEmail = function () {
+        var emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]‌​{0,61}[a-zA-Z0-9])?(‌​?:\.[a-zA-Z0-9](?:[a‌​-zA-Z0-9-]{0,61}[a-z‌​A-Z0-9])?)*$/
+        var email = $("#email").val();
+        if(!email || email.match(emailRegex)) {
+          // show the first error
+          $("#form-invalid").prop('hidden', true)
+          return false;
+        }
+        else {
+          //hide the first error
+          $("#form-invalid").prop('hidden', false)
+          return true;
+        }
+      }
+      
+      
+      // register function
+      document.querySelector("#register").addEventListener("click", function(event){
+        alert("preventDefault will stop you from checking this checkbox!")
+        event.preventDefault();
+        var email = $("#email").val();
+        var first = $("#first").val();
+        $("#form-error").prop('hidden', true)
+        var $form = $(this);
+        // check form details
+        if(checkFirst() && checkEmail()) {
+          ref.set({
+              firstName: first,
+              email: email
+          }, function(err){
+            if(err){
+              $("#form-error").prop('hidden', false)
+              return;
+            }
+            else { 
+              $form.prop('hidden', true);
+              $("form-success").prop('hidden', false);
+              return;
+            }
+          });
+        }
+      }, false);
+    })
     </script>
 
   </head>
