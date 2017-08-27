@@ -86,15 +86,14 @@
           }, function(err){
             if(err){
               document.getElementById("form-error").setAttribute('hidden', false);
-              return;
             }
             else { 
               document.getElementById("register").setAttribute('hidden', true);
               document.getElementById("form-success").setAttribute('hidden', false);
-              return;
             }
           });
         }
+        return true;
       };
     </script>
 
