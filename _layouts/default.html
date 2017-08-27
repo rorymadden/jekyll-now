@@ -34,15 +34,15 @@
       
       //check function for first name
       var checkFirst = function () {
-        var first = $("#first").val();
+        var first = document.getElementById("first").value;
         if(!first) {
           // show the first error
-          $("#form-invalid").prop('hidden', true)
+          document.getElementById("form-invalid").setAttribute('hidden', true);
           return false;
         }
         else {
           //hide the first error
-          $("#form-invalid").prop('hidden', false)
+          document.getElementById("form-invalid").setAttribute('hidden', false);
           return true;
         }
       }
@@ -50,28 +50,25 @@
       //check function for email
       var checkEmail = function () {
         var emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]‌​{0,61}[a-zA-Z0-9])?(‌​?:\.[a-zA-Z0-9](?:[a‌​-zA-Z0-9-]{0,61}[a-z‌​A-Z0-9])?)*$/
-        var email = $("#email").val();
+        var email = document.getElementById("email").value;
         if(!email || email.match(emailRegex)) {
           // show the first error
-          $("#form-invalid").prop('hidden', true)
+          document.getElementById("form-invalid").setAttribute('hidden', true);
           return false;
         }
         else {
           //hide the first error
-          $("#form-invalid").prop('hidden', false)
+          document.getElementById("form-invalid").setAttribute('hidden', false);
           return true;
         }
       }
       
       
       // register function
-      document.querySelector("#register").addEventListener("click", function(event){
-        alert("preventDefault will stop you from checking this checkbox!")
-        event.preventDefault();
-        var email = $("#email").val();
-        var first = $("#first").val();
-        $("#form-error").prop('hidden', true)
-        var $form = $(this);
+      var registerUser = function () {
+        var email = document.getElementById("email").value;
+        var first = document.getElementById("first").value;
+        document.getElementById("form-error").setAttribute('hidden', true);
         // check form details
         if(checkFirst() && checkEmail()) {
           ref.set({
@@ -79,12 +76,12 @@
               email: email
           }, function(err){
             if(err){
-              $("#form-error").prop('hidden', false)
+              document.getElementById("form-error").setAttribute('hidden', false);
               return;
             }
             else { 
-              $form.prop('hidden', true);
-              $("form-success").prop('hidden', false);
+              document.getElementById("register");.setAttribute('hidden', true);
+              document.getElementById("form-success").setAttribute('hidden', false);
               return;
             }
           });
