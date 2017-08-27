@@ -6,7 +6,7 @@ published: true
 <article class="post">
   <h1>{{ page.title }}</h1>
   <div class="date">
-    {% if page.author !== null %}
+    {% if page.author != null %}
     	{{page.author}},
     {{% endif %}}
     {{ page.date | date: "%B %e, %Y" }}
