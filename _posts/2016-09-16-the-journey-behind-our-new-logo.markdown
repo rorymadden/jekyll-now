@@ -106,16 +106,14 @@ We tried not to influence our designer with preferred colours or shapes, and ask
 <hr>
 ![UXDX 3](/images/UXDX3.jpg)
 > “We’re not a software company from the 80’s.” 
-
 Monika, our Marketing Manager.
 <hr>
 ![UXDX 4](images/UXDX4.jpg)
 > "I just see legs when I look at the X's, and I think they need to go to the loo!"
-
 Our director, Catherine
 <hr>
 ![UXDX 5](/images/UXDX5.jpg)
-Our favourite logo from what was provided 
+>Our favourite logo from what was provided 
 
 ---
 
@@ -132,7 +130,7 @@ However crazy this may sound in the middle of the process, we followed our intui
 
 Rather than producing a multitude of logos our new designer came back with a single concept and the thinking behind the logo. 
 
-![The final logo](/content/images/2016/09/output_FEM58L.gif)
+![The final logo](/images/output_FEM58L.gif)
 
 The icon was designed to represent the idea of ​​the mutual support and collaboration. It was drawn by hand to fit all of the letters of the name X, D, U into one symbolic icon in order to express the equal importance of all the elements that our conference is focused on.
 
@@ -147,7 +145,6 @@ Finally, the logo was designed as a monogram, so it can be used in black or whit
 We only needed to make a minor revision to this first concept to arrive at our final logo. After all the time spent going the wrong way, we finally got what we had been waiting for - the simple, versatile concept, tailored exactly to our needs.
 
 >“In life there are no shortcuts; process is still the best way to get ahead.” 
-
 *Bidemi Mark-Mordi*
 
 As with any creative process, there were challenges we needed to overcome to get to the final result we’ve been happy with. Unfortunately, there are no shortcuts in developing creative ideas, but a lot of learning came up with this journey. Most of all, the 3 key things to remember:
