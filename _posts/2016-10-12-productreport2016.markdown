@@ -16,6 +16,7 @@ tags:
   - challenges
   - ireland
 published: true
+banner: headers/161012-T1-006.jpg
 ---
 
 Some 60% of Irish tech workers received a pay rise in the past year, 39% of tech workers have a master’s degree, and there is a stark salary gap between men and women in the tech industry in Ireland: All these have been revealed in the UXDX Product Design & Development Industry Report, published today.
