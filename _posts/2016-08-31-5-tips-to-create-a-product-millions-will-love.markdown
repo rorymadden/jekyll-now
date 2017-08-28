@@ -10,7 +10,7 @@ tags:
   - league-of-legends
   - product-development
 published: true
-banner: RiotGamesParty_055.jpg
+banner: headers/RiotGamesParty_055.jpg
 ---
 
 The best products are made by user-focused teams, and Riot Games, who are behind the world's most popular game, League of Legends, strive to develop games that both they themselves and their users love to play. 
