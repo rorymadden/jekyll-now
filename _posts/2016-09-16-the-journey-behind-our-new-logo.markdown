@@ -105,12 +105,12 @@ We tried not to influence our designer with preferred colours or shapes, and ask
 >Xerox 
 <hr>
 ![UXDX 3](/images/UXDX3.jpg)
-> “We’re not a software company from the 80’s.” 
+> “We’re not a software company from the 80’s.” - 
 Monika, our Marketing Manager.
 <hr>
 ![UXDX 4](images/UXDX4.jpg)
 > "I just see legs when I look at the X's, and I think they need to go to the loo!"
-Our director, Catherine
+- Our director, Catherine
 <hr>
 ![UXDX 5](/images/UXDX5.jpg)
 >Our favourite logo from what was provided 
@@ -120,8 +120,7 @@ Our director, Catherine
 # We’re Not Happy… What Now?
 
 >“Failure is built into creativity… the creative act involves this element of ‘newness’ and ‘experimentalism,’ then one must expect and accept the possibility of failure.”
-
-*Saul Bass, Logo Designer*
+- Saul Bass, Logo Designer
 
 We received several concepts of the UXDX logo, but none of them made us skip a heartbeat. We were missing the versatility and uniqueness, we weren’t sure about the colours and overall, slightly generic design. 
 
@@ -145,7 +144,7 @@ Finally, the logo was designed as a monogram, so it can be used in black or whit
 We only needed to make a minor revision to this first concept to arrive at our final logo. After all the time spent going the wrong way, we finally got what we had been waiting for - the simple, versatile concept, tailored exactly to our needs.
 
 >“In life there are no shortcuts; process is still the best way to get ahead.” 
-*Bidemi Mark-Mordi*
+- Bidemi Mark-Mordi
 
 As with any creative process, there were challenges we needed to overcome to get to the final result we’ve been happy with. Unfortunately, there are no shortcuts in developing creative ideas, but a lot of learning came up with this journey. Most of all, the 3 key things to remember:
 
