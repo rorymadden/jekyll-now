@@ -28,6 +28,7 @@ The report is based on almost 400 high-quality responses from those working in t
 The report’s findings were officially launched by Minister for Jobs, Enterprise & Innovation Mary Mitchell O’Connor at Bank of Ireland, Grand Canal Square in Dublin’s Silicon Docks this morning where the minister welcomed the report.
 
 ![alt](/images/161012-T1-006.jpg)
+
 *Left to Right:* 
 Fiona Murphy, Founder and Director, **Frontend**, Rory Madden, CIO, **UXDX**, Minister Mary Mitchell O'Connor, **Minister for Jobs, Enterprise and Innovation**, Catherine Madden, Project Director, **UXDX**, Keith Murphy, **Bank of Ireland** Business Banking - Grand Canal Square
 
