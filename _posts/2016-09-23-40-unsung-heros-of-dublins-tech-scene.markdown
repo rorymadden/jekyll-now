@@ -3,37 +3,39 @@ layout: post
 title: 40 unsung heroes of Dublin’s Tech Scene
 date: '2016-09-23 10:57:24'
 tags:
-- uxdx
-- uxdxconf
-- meetups
+  - uxdx
+  - uxdxconf
+  - meetups
+published: true
+banner: headers/photographer-1436917_1280.jpg
 ---
 
 Dublin has an underground movement of amazing people that get very little recognition for their contribution, and yet are vital to the success of the Dublin tech scene. Everyday people who are donating their time to help improve knowledge sharing and networking opportunities that are vital for the success and growth of a tech scene. While we could have collated a list about ten times as long we've had to limit our list to 40 key people for brevity’s sake. Let us know in the comments who we are missing and we will continue to update this list as a thank you to the unsung heroes. Aside from some loose groupings of Development, Design, Entrepreneurship and Support the people are listed below in no particular order. 
 
 
-#Entrepreneurship
-###Silviu Preoteasa - <a href="https://www.meetup.com/Entrepreneurs-Anonymous-Dublin/" target="_blank">*Entrepreneurs Anonymous*</a>
+# Entrepreneurship
+### Silviu Preoteasa - <a href="https://www.meetup.com/Entrepreneurs-Anonymous-Dublin/" target="_blank">*Entrepreneurs Anonymous*</a>
 
 <img src="http://s21.postimg.org/wk1lk044j/Silviu_Proteasa.jpg" class="profile-picture-article" alt="Silviu Preoteasa">
 
 Since 2014, Silviu has been a chairman of Entrepreneurs Anonymous - the most active meetup group about entrepreneurship in Dublin. Recently, Silviu has become a co-organiser of a popular event, the B.U.I.L.D Hackathon, where technically-minded developers and business people come together to test new ideas and solve challenges. Self described as a growth hacker, serial entrepreneur, and lead investor, while not organising free entrepreneur events Silviu spends his time managing marketing technology in Hostelworld. 
 <a target="_blank" href="https://www.linkedin.com/in/silviupreoteasa"><i class="fa fa-linkedin"></i></a>
 
-###Kevin Loaec - <a href="https://www.meetup.com/Hackers-and-Founders-Dublin/" target="_blank">*Hackers and Founders*</a>
+### Kevin Loaec - <a href="https://www.meetup.com/Hackers-and-Founders-Dublin/" target="_blank">*Hackers and Founders*</a>
 <img src="http://s21.postimg.org/vue7twe77/Kevin_Loaec.jpg" class="profile-picture-article" alt="Kevin Loaec">
 
 Kevin has been running the Hackers/Founders meetup in Dublin which boasts over 2,000 members. Previously he was also at the helm of the Find a Founder meetup which aimed to pair up budding entrepreneurs - because, as we all know, you can’t do it alone. Kevin practices what he preaches as he is a founder of Chainsmiths - a cryptocurrency and blockchain consultancy. On top of all of that Kevin organises the biggest blockchain hackathon in Europe.
 <a target="_blank" href="https://twitter.com/kloaec/"><i class="fa fa-twitter"></i></a>   <a target="_blank" href="https://www.linkedin.com/in/kevinloaec"><i class="fa fa-linkedin"></i></a>
 
 
-###Mary Cronin - <a href="https://www.meetup.com/Lean-Startup-Dublin/" target="_blank">*Lean Startup Dublin*</a>
+### Mary Cronin - <a href="https://www.meetup.com/Lean-Startup-Dublin/" target="_blank">*Lean Startup Dublin*</a>
 <img src="http://s21.postimg.org/n0nbcsr8j/Mary_Cronin.jpg" class="profile-picture-article" alt="Mary Cronin">
 
 Mary established the Lean Startup Dublin meetup to provide a place to get together, learn and collaborate around Lean Startup methodologies. Having been popularised by Eric Ries in his book The Lean Startup, companies large and small have been adopting the Lean techniques and approaches to improve product development and increase speed to market. Mary is a co-founder of ThousandSeeds which has garnered a reputation as ‘thought leaders’ on Lean Startup principles in Ireland, and she teaches entrepreneurship in UCD using lean and design-led methodologies as well.
 <a target="_blank" href="https://twitter.com/@MarylCronin"><i class="fa fa-twitter"></i></a>   <a target="_blank" href="https://www.linkedin.com/in/marycronin4"><i class="fa fa-linkedin"></i></a>
 
 
-###David Scanlon - <a href="https://www.meetup.com/Startup-Grind-Dublin/" target="_blank">*Startup Grind*</a>
+### David Scanlon - <a href="https://www.meetup.com/Startup-Grind-Dublin/" target="_blank">*Startup Grind*</a>
 <img src="http://s21.postimg.org/sop0py677/David_Scanlon.jpg" class="profile-picture-article" alt="David Scanlon">
 
 David runs the Dublin chapter of Startup Grind, an international community of startups which aims to nurture entrepreneurs through monthly events featuring successful local founders, innovators, educators and investors. David knows a thing or two about building successful startups as he is currently the Venture Investment Lead at NDRC with some previous time spent at the Lucey Fund. <a target="_blank" href="https://www.linkedin.com/in/davescanlon"><i class="fa fa-linkedin"></i></a>   <a target="_blank" href="https://twitter.com/dscanlon/"><i class="fa fa-twitter"></i></a>
@@ -221,5 +223,3 @@ Girl Geek Dinners are a chance for ladies in technology to get together, enjoy s
 
 Silicon Drinkabout is a monthly meetup for startups (including techies, designers and business folk) to meet like-minded people, have some fun and relax at the end of the working week. As startups are often working solo, getting out of the office (home) can be very helpful. Gene has been helping out in the startup and tech community for years through his involvement in numerous startup weekends, co-founding Startup Ireland and now through his role as Entrepreneur in Residence at Bank of Ireland. 
 <a target="_blank" href="https://twitter.com/genemurphy"><i class="fa fa-twitter"></i></a>   <a target="_blank" href="https://www.linkedin.com/in/murphygene"><i class="fa fa-linkedin"></i></a>
-
-
