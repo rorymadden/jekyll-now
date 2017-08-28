@@ -12,6 +12,7 @@ tags:
   - employee
   - event
 published: true
+banner: headers/PIcture.jpg
 ---
 
 We don’t have to sell you on the idea of going to UXDX Conf, but we suspect you may need to ask your manager or supervisor. For those, who might need a little help with this, we have prepared a stock letter that will convince even the most skeptical bosses. Feel free to customise the email below as you see fit, or just copy and paste and send it to your boss!
