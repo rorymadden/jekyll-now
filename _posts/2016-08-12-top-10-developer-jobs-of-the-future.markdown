@@ -64,7 +64,7 @@ With the tech world changing so fast, it’s really challenging to predict the f
 
 __________________
 
-![Alt Text](/images/Boundy-circle-01-01-2.png)
+![Alt Text](/images/Boundy-circle-01-01-2.jpg)
 
 #### David Boundy, Director of IoT at Intel, will present at UXDX
 Do you want to more know about this topic? David Boundy, Director of IoT Innovation at Intel will be sharing the secrets that you need to know around the future of IoT and how they're reaching 200 million devices by 2020 at [UXDX](http://uxdxconf.com) in November. Check out [uxdxconf.com](http://uxdxconf.com) to see how you can get your skills up to date.
