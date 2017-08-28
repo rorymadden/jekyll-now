@@ -61,9 +61,10 @@ If you want to build the future of gaming, entertainment, storytelling, educatio
 Whether AI will herald the [end of the world](http://www.theverge.com/2016/6/2/11837566/elon-musk-one-ai-company-that-worries-me), or will [end all of the world's problems](http://www.kurzweilai.net/dont-fear-artificial-intelligence-by-ray-kurzweil) is up for debate. But what is not up for debate is that investment will continue in all things AI. Machine learning skill sets are growing in demand and will keep continuing. And this could be the safest bet - a good AI could probably replace all of the jobs above anyway!
 
 With the tech world changing so fast, it’s really challenging to predict the future. We cannot pretend our crystal ball is any better than yours and we would love to know your opinion. What do you think is the next big development job of the future? Tweet us your thoughts **@uxdxconf #futuredev**
+
 __________________
 <div class="image-div" style="width: 300px;">
-![alt](/images/Boundy-circle-01-01-2.png)
+![Alt Text](/images/Boundy-circle-01-01-2.png)
 </div>
 #### David Boundy, Director of IoT at Intel, will present at UXDX
 Do you want to more know about this topic? David Boundy, Director of IoT Innovation at Intel will be sharing the secrets that you need to know around the future of IoT and how they're reaching 200 million devices by 2020 at [UXDX](http://uxdxconf.com) in November. Check out [uxdxconf.com](http://uxdxconf.com) to see how you can get your skills up to date.
