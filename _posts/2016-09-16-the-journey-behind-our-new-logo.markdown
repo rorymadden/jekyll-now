@@ -105,8 +105,8 @@ We tried not to influence our designer with preferred colours or shapes, and ask
 >Xerox 
 <hr>
 ![UXDX 3](/images/UXDX3.jpg)
-> “We’re not a software company from the 80’s.” - 
-Monika, our Marketing Manager.
+> “We’re not a software company from the 80’s.” 
+- Monika, our Marketing Manager.
 <hr>
 ![UXDX 4](images/UXDX4.jpg)
 > "I just see legs when I look at the X's, and I think they need to go to the loo!"
