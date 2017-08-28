@@ -9,6 +9,7 @@ tags:
   - logo
   - uxdxconf
 published: true
+banner: headers/Photo-blog-UXDX-Logo-01-1.jpg
 ---
 
 A logo is one of the most important elements of a company or project identity. To become remembered, design should combine several magic ingredients; pure and distinctive shapes, attractive colours, and ensure that the overall logo being meaningful to the target audience.
@@ -17,7 +18,7 @@ Over the past few months, we’ve been working on a logo that would incorporate 
 
 In the spirit of our brand - team collaboration and user experience - we’d like to share our journey with you; from creating brief and different concepts, trials and tribulations, to the final, finished and polished design of our logo.
 
-#Back to the Beginning - The Research
+# Back to the Beginning - The Research
 
 Our logo journey started with our conference idea. We wanted to create a conference that would actually help people navigate the ever changing landscape of best practice product delivery and deliver real benefit to product teams in companies large and small. 
 
@@ -25,73 +26,73 @@ We started out by mapping the key stakeholders when developing a product: **Prod
 
 We researched with this audience in three different ways: 
 
-####Direct Communication
+#### Direct Communication
 Through attendance of weekly meetups in almost every category, we got to meet our audience, have a beer and find out what makes them tick.
 
-####National Survey
+#### National Survey
 We developed a survey to find out individual, team and industry challenges, along with what companies were getting products and teams right.
 
-####Calls with Suppliers
+#### Calls with Suppliers
 What their thoughts were as “experts” to the industry and what people asked them for help with. 
 
-#Challenges and Requirements
-The following overall industry challenges arose from our findings of our research (we are closing our [survey](https://uxdxconf.com/#/survey) shortly, we will be releasing the full findings in mid October).
+# Challenges and Requirements
+The following overall industry challenges arose from our findings of our research.
 
-###Meeting targets and deadlines
+### Meeting targets and deadlines
 - Reducing waste in development
 - Streamlining workflow
 
-###Increasing go to market speed
+### Increasing go to market speed
 - Removing handovers and bottlenecks between teams
 - Getting designers and developers to work closer together
 
-###Usability by design
+### Usability by design
 - User experience best practices
 - Ongoing client interaction & feedback
 - A/B Testing and customer tracking
 
-###Managing ambiguous requirements
+### Managing ambiguous requirements
 - Lean and agile methodology to shorten the feedback loop
 - Continuous testing and deployment
 
-###Managing increasing deployment frequency
+### Managing increasing deployment frequency
 - DevOps best practice and automation
 - Team scaling through Microservices
 
-###Improving cross team communication
+### Improving cross team communication
 - Multi-disciplined teams
 - Team bonding and training
 
-###Hiring / nurturing talent
+### Hiring / nurturing talent
 - Targeted recruitment through exciting projects
 - Paired teams and mentorship
 
-###Managing stakeholders
+### Managing stakeholders
 - Early and regular product releases
 - Agile implementation 
 
-###Non traditional UIs
+### Non traditional UIs
 - Early adopter case studies. 
 - Designer, developer team collaboration
 
 --- 		
-#The Birth of UXDX
+# The Birth of UXDX
 If we were to pick out one theme from our research it is that product delivery is all about the people! In particular we picked out the three areas below which highlight the ways in which product teams must work together to deliver the right product for the user. 
         
-###User Experience (UX)
+### User Experience (UX)
 Without a customer, there is no product. A product should always work closely with and focus on the end user to provide a product/solution match. This is the foundation of product development. 
 
-###Experience Design (XD)
+### Experience Design (XD)
 Experience Design is the art of simplifying complex interactions into meaningful experiences; designing the product with a focus placed on the quality of the user experience and culturally relevant solutions.
 
-###Developer Experience (DX)
+### Developer Experience (DX)
 DX is a relatively underused term, but critical component. Developer Experience is about the aggregate of all the experiences a developer has when interacting with your API. We wanted to highlight the importance of facilitating better user experiences by making app development easier for developers.
 
 We merged the three areas together and **UXDX** was born.
 
 --- 
 
-#Initial Designs
+# Initial Designs
 As a team, we worked on a brief providing detailed information on what should the new logo look like (emphasising simplicity, memorability, and versatility) and what meanings should be imbued behind it. Above all, we wanted to stress the idea of bringing together people from different roles who typically don’t understand each other.
 
 We tried not to influence our designer with preferred colours or shapes, and asked for their thoughts instead. After a few weeks our designer presented their first concepts. We’ve summarised them with the brevity they deserve below. 
@@ -100,25 +101,25 @@ We tried not to influence our designer with preferred colours or shapes, and ask
 
 >PlayStation / XBox 
 <hr>
-![UXDX 2](/content/images/2016/09/UXDX2.jpg)
+![UXDX 2](/images/UXDX2.jpg)
 >Xerox 
 <hr>
-![UXDX 3](/content/images/2016/09/UXDX3.jpg)
+![UXDX 3](/images/UXDX3.jpg)
 > “We’re not a software company from the 80’s.” 
 
 Monika, our Marketing Manager.
 <hr>
-![UXDX 4](/content/images/2016/09/UXDX4.jpg)
+![UXDX 4](images/UXDX4.jpg)
 > "I just see legs when I look at the X's, and I think they need to go to the loo!"
 
 Our director, Catherine
 <hr>
-![UXDX 5](/content/images/2016/09/UXDX5.jpg)
+![UXDX 5](/images/UXDX5.jpg)
 Our favourite logo from what was provided 
 
 ---
 
-#We’re Not Happy… What Now?
+# We’re Not Happy… What Now?
 
 >“Failure is built into creativity… the creative act involves this element of ‘newness’ and ‘experimentalism,’ then one must expect and accept the possibility of failure.”
 
@@ -142,7 +143,7 @@ In addition, the letters together shape an unfinished hourglass icon. This is a 
 Finally, the logo was designed as a monogram, so it can be used in black or white form as well as the colour version.
 
 
-#No Shortcuts, Lot of Learning###
+# No Shortcuts, Lot of Learning
 We only needed to make a minor revision to this first concept to arrive at our final logo. After all the time spent going the wrong way, we finally got what we had been waiting for - the simple, versatile concept, tailored exactly to our needs.
 
 >“In life there are no shortcuts; process is still the best way to get ahead.” 
