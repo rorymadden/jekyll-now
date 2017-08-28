@@ -3,11 +3,12 @@ layout: post
 title: The Journey Behind UXDX and Our New Logo
 date: '2016-09-16 15:29:00'
 tags:
-- uxdx
-- design-thinking
-- logo-design
-- logo
-- uxdxconf
+  - uxdx
+  - design-thinking
+  - logo-design
+  - logo
+  - uxdxconf
+published: true
 ---
 
 A logo is one of the most important elements of a company or project identity. To become remembered, design should combine several magic ingredients; pure and distinctive shapes, attractive colours, and ensure that the overall logo being meaningful to the target audience.
@@ -95,7 +96,7 @@ As a team, we worked on a brief providing detailed information on what should th
 
 We tried not to influence our designer with preferred colours or shapes, and asked for their thoughts instead. After a few weeks our designer presented their first concepts. We’ve summarised them with the brevity they deserve below. 
 
-![UXDX 1](/content/images/2016/09/UXDX1.jpg)
+![UXDX 1](/images/UXDX1.jpg)
 
 >PlayStation / XBox 
 <hr>
@@ -155,4 +156,3 @@ As with any creative process, there were challenges we needed to overcome to get
 3. Good things come to those who wait
 
 Do you want to share your own experience or thoughts on our new branding? Tweet us at [@uxdxconf](http://twitter.com/uxdxconf) or leave us a comment on [Facebook](https://www.facebook.com/uxdxconf)
-
