@@ -11,7 +11,7 @@ tags:
   - gadgets
   - smart-world
 published: true
-banner: intel02-1.jpg
+banner: headers/intel02-1.jpg
 ---
 
 The Internet of Things is one of the fastest-growing areas of the tech industry and has the potential to dramatically improve the way we live, work, and interact with one another. From 2 billion objects in 2006, IoT connected devices are expected to grow to a breathtaking 200 billion by 2020. That means around 26 smart objects for every human being on the planet! Are you ready for this dramatic transformation?
