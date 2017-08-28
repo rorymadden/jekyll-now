@@ -62,7 +62,6 @@ Whether AI will herald the [end of the world](http://www.theverge.com/2016/6/2/1
 
 With the tech world changing so fast, it’s really challenging to predict the future. We cannot pretend our crystal ball is any better than yours and we would love to know your opinion. What do you think is the next big development job of the future? Tweet us your thoughts **@uxdxconf #futuredev**
 __________________
-<div class="image-div" style="width: 300px;">
 ![Alt Text](/images/Boundy-circle-01-01-2.png)
 
 #### David Boundy, Director of IoT at Intel, will present at UXDX
