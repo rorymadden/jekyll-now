@@ -23,21 +23,23 @@ Once a business satisfies the industry category for the VC what criteria are the
 ## Product
 
 >*"Venture capitalists are looking to fund projects that are unique and can't be easily replicated.”*   
-Charley Polachi, partner at Polachi Access Executive Search. 
+- Charley Polachi, partner at Polachi Access Executive Search. 
 
 A product must be unique, or sufficiently differentiated from other offerings in the market, as it is very hard to overcome peoples' natural aversion to change. This is why small improvements over existing market offerings are rarely funded. 
 
 Once you have your significantly improved, or market making, product the next key area of focus is on barriers to entry. Companies are most vulnerable in the early stages as the market incumbents have the capital and existing market share. Fortunately for entrepreneurs most incumbents don't recognise the niche that the new company is targeting as worthy enough of their attention. This is great during the early stages of a company but it can be a double edged sword when trying to raise capital because the entrepreneur also needs to convince the VC on the size of the market. 
 
 ## Market
->*“Great markets make great companies”,*  Don Valentine, founder of Sequoia Capital
+>*“Great markets make great companies.”*
+- Don Valentine, founder of Sequoia Capital
 
 When you have a market making product it can be very difficult to quantify the size of the potential market. Nonetheless it is very important that you can demonstrate that there is a significant market because, due to the risk inherent in each investment, VC’s are looking for a very high upside to offset their risk. This means that a second essential criteria for an investment is a demonstrated, realistic, large and lucrative market.  
 
 *“We have always focused on the market,*” says Valentine, also known as the ‘grandfather of Silicon Valley venture capital’, *“because our objective always was to build big companies. If you don’t attack a big market, it’s highly unlikely you’re ever going to build a big company.”*
 
 ## Team
->*“We struggle from a distance to evaluate market, and we also actually struggle to evaluate product.”*   Marc Andreessen, Andreessen Horowitz.
+>*“We struggle from a distance to evaluate market, and we also actually struggle to evaluate product.”* 
+- Marc Andreessen, Andreessen Horowitz.
 
 ![alt](/images/Team.jpg)
 
