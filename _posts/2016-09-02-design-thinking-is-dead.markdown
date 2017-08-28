@@ -8,7 +8,7 @@ tags:
   - product-development
   - design
 published: true
-banner: bulb03.jpg
+banner: headers/bulb03.jpg
 ---
 
 Design thinking is not a new idea - it has actually a long history dating back to 60s, but has turned into a global mega-trend over the past few years. The term has gained a lot of attention in a wide range of contexts, and has been embraced by organisations of all stripes - big and small corporations, NGOs and governments alike.
