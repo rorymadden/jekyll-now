@@ -37,14 +37,11 @@ Mary Mitchell O’Connor TD, Minister for Jobs, Innovation & Innovation said:  �
 UXDX conference director Catherine Madden explained: “There are plenty of statistics and studies to tell the big-picture story of Ireland’s tech scene, but this new survey offers a rare snapshot of what the industry is like for the developers and designers working at the coalface of product development in Ireland.
 ![alt](/content/images/2016/10/161012-T1-020.jpg)
 
-
-
 >“60% of respondents received pay-rises of up to 20%, and the average raise was 7%. 
 
 Meanwhile, a startling 93% either feel very secure or relatively secure in their employment. These suggest that the industry in Ireland is undergoing something of a boom.
 
 “This success comes with a caveat, though. The global tech industry has no shortage of anecdotes about the under-representation of women, and the results of our survey have a lot to say about how this operates in Ireland. The fact that 64% of respondents to the survey were male tells its own story. The findings reveal glaring pay gaps between the ages of 27-35, and 36-39, where women designers’ pay falls far behind men’s – and developers are so underrepresented that even a sample of nearly 400 respondents couldn’t gather sufficient data from women in this field.”
-
 
 The UXDX Product Design & Development Industry Report also analyses the educational level of those working in the industry, with 39% reaching master’s degree level and 36% leaving education upon receiving an honours degree. It concludes, however, that age is a far better indicator of salary than education, with self-taught respondents faring no worse than those with master’s or PhDs. Financial services is the most lucrative industry, with an average salary of €67,500.
 ![](/content/images/2016/10/161012-T1-037.jpg)
@@ -52,29 +49,21 @@ The UXDX Product Design & Development Industry Report also analyses the educatio
 
 Minister Mary Mitchell O’Connor said: “One of the most interesting facts I read is that it contributes to the wider enterprise base, with over 80% of Irish firms citing the importance of design to innovation, customer service and profit. When you read numbers like that you realise that this needs to be pushed up on the department’s agenda and on our innovation agenda.
 
-![](/content/images/2016/10/Rory.jpg)
+![](/images/Rory.jpg)
 
 # Key Findings
 
 * 60% of respondents received a pay rise in the past year.
-
 * The average pay rise was 7%
-
 * 64% of respondents were male
-
 * 61% of respondents were Irish, 39% multinational
-
 * 39% of respondents had reached master’s degree level, 36% honours degree, and 2% PhD
-
 * Financial services is the most lucrative industry, with an average salary of €67,500
-
 * Age is a far better indicator of salary than education
-
 * 85% of respondents are full-time permanent employees
-
 * 93% feel either completely or relatively secure in their jobs.
 
-
+___________
 
 ### About UXDX:
 
@@ -82,7 +71,6 @@ Date/venue: RDS, Dublin, 2 November 2016.
 Conference: UXDX - User Experience, Developer Experience
 
 ###### Tickets available now
-
 
 *Full lineup on [http://www.uxdxconf.com/](http://www.uxdxconf.com/)* 
 
