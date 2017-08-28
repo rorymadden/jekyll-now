@@ -23,7 +23,7 @@ Once a business satisfies the industry category for the VC what criteria are the
 ## Product
 
 >*"Venture capitalists are looking to fund projects that are unique and can't be easily replicated.”*   
-- Charley Polachi, partner at Polachi Access Executive Search. 
+- Charley Polachi, partner at Polachi Access Executive Search
 
 A product must be unique, or sufficiently differentiated from other offerings in the market, as it is very hard to overcome peoples' natural aversion to change. This is why small improvements over existing market offerings are rarely funded. 
 
@@ -39,7 +39,7 @@ When you have a market making product it can be very difficult to quantify the s
 
 ## Team
 >*“We struggle from a distance to evaluate market, and we also actually struggle to evaluate product.”* 
-- Marc Andreessen, Andreessen Horowitz.
+- Marc Andreessen, Andreessen Horowitz
 
 ![alt](/images/Team.jpg)
 
