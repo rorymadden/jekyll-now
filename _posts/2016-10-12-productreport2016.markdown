@@ -48,6 +48,7 @@ Meanwhile, a startling 93% either feel very secure or relatively secure in their
 The UXDX Product Design & Development Industry Report also analyses the educational level of those working in the industry, with 39% reaching master’s degree level and 36% leaving education upon receiving an honours degree. It concludes, however, that age is a far better indicator of salary than education, with self-taught respondents faring no worse than those with master’s or PhDs. Financial services is the most lucrative industry, with an average salary of €67,500.
 
 ![](/images/161012-T1-037.jpg)
+
 >Catherine Madden said: “61% of respondents were Irish and 39% were multinational. While multinationals get the bulk of the press, there is a strong indigenous undercurrent in the Irish tech scene at the moment. Meanwhile, the top three perks that employees appreciate are remote working, flexible hours and a contributory pension. In terms of non-monetary benefits, tech workers want to feel they have a meaningful role in work, have a work-life balance, and want career progression.”
 
 Minister Mary Mitchell O’Connor said: “One of the most interesting facts I read is that it contributes to the wider enterprise base, with over 80% of Irish firms citing the importance of design to innovation, customer service and profit. When you read numbers like that you realise that this needs to be pushed up on the department’s agenda and on our innovation agenda.
