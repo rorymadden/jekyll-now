@@ -3,11 +3,13 @@ layout: post
 title: 'Product, Market, and Team: The Holy Trinity of Venture Capitalists'
 date: '2016-09-09 14:35:15'
 tags:
-- product
-- team
-- product-development
-- audience
-- vc
+  - product
+  - team
+  - product-development
+  - audience
+  - vc
+published: true
+banner: headers/Audience-1.jpg
 ---
 
 As an entrepreneur you need to be ready for anything because building a business is like riding a roller coaster. You start with the highs of the initial inspirational idea before plummeting to the lows of the challenges of the implementation, only to be brought back up my your first sales and then frustrated by the ensuing slow customer adoption. And after all of these hurdles are overcome you are still faced with the fact that building a business takes money - quite often a lot of money. It is a tough ride and it can push entrepreneurs to the edge. 
@@ -27,17 +29,17 @@ A product must be unique, or sufficiently differentiated from other offerings in
 
 Once you have your significantly improved, or market making, product the next key area of focus is on barriers to entry. Companies are most vulnerable in the early stages as the market incumbents have the capital and existing market share. Fortunately for entrepreneurs most incumbents don't recognise the niche that the new company is targeting as worthy enough of their attention. This is great during the early stages of a company but it can be a double edged sword when trying to raise capital because the entrepreneur also needs to convince the VC on the size of the market. 
 
-##Market
+## Market
 >*“Great markets make great companies”,*  Don Valentine, founder of Sequoia Capital
 
 When you have a market making product it can be very difficult to quantify the size of the potential market. Nonetheless it is very important that you can demonstrate that there is a significant market because, due to the risk inherent in each investment, VC’s are looking for a very high upside to offset their risk. This means that a second essential criteria for an investment is a demonstrated, realistic, large and lucrative market.  
 
 *“We have always focused on the market,*” says Valentine, also known as the ‘grandfather of Silicon Valley venture capital’, *“because our objective always was to build big companies. If you don’t attack a big market, it’s highly unlikely you’re ever going to build a big company.”*
 
-##Team
+## Team
 >*“We struggle from a distance to evaluate market, and we also actually struggle to evaluate product.”*   Marc Andreessen, Andreessen Horowitz.
 
-![alt](/content/images/2016/09/Team.jpg)
+![alt](/images/Team.jpg)
 
 Any successful entrepreneur will tell you, you cannot do it alone; building a strong team is essential. There are many reasons for this from sharing the workload, to maintaining motivation as you struggle with the challenges of the daily grind. 
 
@@ -50,9 +52,7 @@ Marc Andreessen also comments on another benefit of a strong founding team:
 
 *“If you can get yourself in business with really good people, I think number one: if it works it’s great, because those are really good people to be in business with and they, with you, can build something great. But even if it doesn’t work—if it’s the wrong market or the wrong product—you’ll still learn so much working with the right people and you’ll build such a valuable network for what you do next.”*
 
-##Putting it all together
+## Putting it all together
 Each of the three core areas is required in order for a VC to invest in your business. But understanding how VC's evaluate your product, market and team is still very difficult. UXDX is bringing together Ireland's top VCs in the RDS, Dublin on 2nd November 2016, to provide their perspective on how they make investment choices and how they help the companies they fund to accelerate their growth into valuable, scalable, and profitable businesses. 
 
 Early bird tickets for UXDX are [available online](https://uxdxconf.com/#/).
-
-
