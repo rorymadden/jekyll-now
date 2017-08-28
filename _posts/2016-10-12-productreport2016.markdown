@@ -26,6 +26,7 @@ The report is based on almost 400 high-quality responses from those working in t
 [Watch Rory Madden from UXDX present the summary and breakdown of the Report here](https://youtu.be/UaF9bAetau8)
 
 The report’s findings were officially launched by Minister for Jobs, Enterprise & Innovation Mary Mitchell O’Connor at Bank of Ireland, Grand Canal Square in Dublin’s Silicon Docks this morning where the minister welcomed the report.
+
 ![alt](/images/161012-T1-006.jpg)
 *Left to Right:* 
 Fiona Murphy, Founder and Director, **Frontend**, Rory Madden, CIO, **UXDX**, Minister Mary Mitchell O'Connor, **Minister for Jobs, Enterprise and Innovation**, Catherine Madden, Project Director, **UXDX**, Keith Murphy, **Bank of Ireland** Business Banking - Grand Canal Square
@@ -35,6 +36,7 @@ Mary Mitchell O’Connor TD, Minister for Jobs, Innovation & Innovation said:  �
 >“This report, the Project Design and Development Industry Report 2016, is very important, and I read it with interest. There is much valuable information in it that we will need to work with in the Department, and also to work with the design industry.”
 
 UXDX conference director Catherine Madden explained: “There are plenty of statistics and studies to tell the big-picture story of Ireland’s tech scene, but this new survey offers a rare snapshot of what the industry is like for the developers and designers working at the coalface of product development in Ireland.
+
 ![alt](/images/161012-T1-020.jpg)
 
 >“60% of respondents received pay-rises of up to 20%, and the average raise was 7%. 
@@ -44,6 +46,7 @@ Meanwhile, a startling 93% either feel very secure or relatively secure in their
 “This success comes with a caveat, though. The global tech industry has no shortage of anecdotes about the under-representation of women, and the results of our survey have a lot to say about how this operates in Ireland. The fact that 64% of respondents to the survey were male tells its own story. The findings reveal glaring pay gaps between the ages of 27-35, and 36-39, where women designers’ pay falls far behind men’s – and developers are so underrepresented that even a sample of nearly 400 respondents couldn’t gather sufficient data from women in this field.”
 
 The UXDX Product Design & Development Industry Report also analyses the educational level of those working in the industry, with 39% reaching master’s degree level and 36% leaving education upon receiving an honours degree. It concludes, however, that age is a far better indicator of salary than education, with self-taught respondents faring no worse than those with master’s or PhDs. Financial services is the most lucrative industry, with an average salary of €67,500.
+
 ![](/images/161012-T1-037.jpg)
 >Catherine Madden said: “61% of respondents were Irish and 39% were multinational. While multinationals get the bulk of the press, there is a strong indigenous undercurrent in the Irish tech scene at the moment. Meanwhile, the top three perks that employees appreciate are remote working, flexible hours and a contributory pension. In terms of non-monetary benefits, tech workers want to feel they have a meaningful role in work, have a work-life balance, and want career progression.”
 
