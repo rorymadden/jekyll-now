@@ -3,14 +3,16 @@ layout: post
 title: 'Jaime Levy: The Four Tenets of UX Strategy'
 date: '2016-07-22 11:09:59'
 tags:
-- lean
-- uxdx
-- jaime-levy
-- ux-strategy
-- o-reilly-author
+  - lean
+  - uxdx
+  - jaime-levy
+  - ux-strategy
+  - o-reilly-author
+published: true
+banner: headers/Jaime.jpg
 ---
 
-Did you miss a session from the phenomenal Jaime Levy​, an American UX expert, at Dublin UX Meetup in June? There is no need to be upset, you can catch up on the talk right here.
+Did you miss a session from the phenomenal Jaime Levy, an American UX expert, at Dublin UX Meetup in June? There is no need to be upset, you can catch up on the talk right here.
 
 Learn about efficient UX strategies that bring more value to designers, their clients/employers, and above all the product users. Watch this entertaining video to experience a deep dive into the subject that should matter to all of us.
 
