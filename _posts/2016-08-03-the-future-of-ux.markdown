@@ -3,12 +3,14 @@ layout: post
 title: The Future of UX
 date: '2016-08-03 14:21:00'
 tags:
-- uxdx
-- ux
-- future-design
-- design
-- mark-swaine
-- dublinux
+  - uxdx
+  - ux
+  - future-design
+  - design
+  - mark-swaine
+  - dublinux
+published: true
+banner: headers/ux-guy.jpg
 ---
 
 'UX Guy' Mark Swaine shared his thoughts about future areas of focus for the UX and design. Watch the video below to see how the industry has evolved over the past two decades and what are Mark's predictions for the future.
