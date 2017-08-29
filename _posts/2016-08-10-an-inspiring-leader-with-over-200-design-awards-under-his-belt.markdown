@@ -30,7 +30,7 @@ Brian strongly believes in the role of design in all areas. Prior to the foundat
 
 *<span style="font-size: 0.9em;">The ARC InstaTemp discretely takes the temperature of a sick child whether they are sleeping, watching TV or playing a game</span>*
 
-![alt](/images/Logitech Bemo.gifg)
+![alt](/images/Logitech Bemo.gif)
 
 *<span style="font-size: 0.9em;">Bemo (made for Logitech) is a powerful little camera that can be worn or carried by the user without fear of breaking</span>*
 
