@@ -13,7 +13,7 @@ tags:
   - iot
   - intel
 published: true
-banner: headers/Robot-2.jpg
+banner: headers/robot.jpg
 ---
 
 >*“The best way to predict the future is to create it.”*
