@@ -3,11 +3,13 @@ layout: post
 title: Tips on Using TypeScript in Angular
 date: '2016-07-24 14:35:00'
 tags:
-- uxdx
-- angular
-- typescript
-- web-development
-- martin-mcwhorter
+  - uxdx
+  - angular
+  - typescript
+  - web-development
+  - martin-mcwhorter
+published: true
+banner: headers/Martin-McWhorter.jpg
 ---
 
 Martin McWhorter, a senior web developer with over 15 years experience in full-stack web development, discusses best practices and advantages of using Typescript in Angular 1.x.
