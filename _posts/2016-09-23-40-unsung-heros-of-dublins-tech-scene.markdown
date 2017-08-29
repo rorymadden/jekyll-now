@@ -10,7 +10,9 @@ published: true
 banner: headers/photographer-1436917_1280.jpg
 ---
 
-Dublin has an underground movement of amazing people that get very little recognition for their contribution, and yet are vital to the success of the Dublin tech scene. Everyday people who are donating their time to help improve knowledge sharing and networking opportunities that are vital for the success and growth of a tech scene. While we could have collated a list about ten times as long we've had to limit our list to 40 key people for brevity’s sake. Let us know in the comments who we are missing and we will continue to update this list as a thank you to the unsung heroes. Aside from some loose groupings of Development, Design, Entrepreneurship and Support the people are listed below in no particular order. 
+Dublin has an underground movement of amazing people that get very little recognition for their contribution, and yet are vital to the success of the Dublin tech scene. Everyday people who are donating their time to help improve knowledge sharing and networking opportunities that are vital for the success and growth of a tech scene.
+
+While we could have collated a list about ten times as long we've had to limit our list to 40 key people for brevity’s sake. Let us know in the comments who we are missing and we will continue to update this list as a thank you to the unsung heroes. Aside from some loose groupings of Development, Design, Entrepreneurship and Support the people are listed below in no particular order. 
 
 
 # Entrepreneurship
