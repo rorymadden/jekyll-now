@@ -3,19 +3,21 @@ layout: post
 title: The Most Important Design Jobs of the Future
 date: '2016-08-05 08:26:06'
 tags:
-- getting-started
-- uxdx
-- industrial-design
-- future-design
-- virtual-reality
-- dna-design
-- experience-design
+  - getting-started
+  - uxdx
+  - industrial-design
+  - future-design
+  - virtual-reality
+  - dna-design
+  - experience-design
+published: true
+banner: headers/alex-knight-199368.jpg
 ---
 
 As technology has evolved, so too have design jobs in order to fulfil emerging requirements. Design in the print days was difficult enough, but the complexity has increased in recent years. To match this new demand, different design areas have come up: Web Design (2000), Responsive Design (2008), Experience Design (2015). With technology moving faster than ever, who knows where the next years will take us. We've put together a list of the design jobs which will influence our future the most.
 
-####Return of Industrial Design
-![3D-Printing](/content/images/2016/08/3Dprinting.jpg)
+### Return of Industrial Design
+![3D-Printing](/images/3Dprinting.jpg)
 
 The industrial designer will make a comeback in two ways; 
 
@@ -27,8 +29,8 @@ Product design is no longer about just designing a tangible product. When machin
 
 With the ever increasing advances in 3D printing technology, there should be great opportunities for 3D designers in the future. As Chris Anderson, former Wired editor, is famously quoted as saying, “3D printing will be bigger than the Internet.” Well designers, don’t miss a chance to take an advantage of it.
 
-####VR/AR Technologies
-![DNA](/content/images/2016/08/ps-vr.jpg)
+### VR/AR Technologies
+![DNA](/images/ps-vr.jpg)
 
 Virtual and augmented reality have been around for a while now, but the real revolution is just about to begin;
 
@@ -40,8 +42,8 @@ We all hope that the virtual reality of the future will not be just fun,but will
 
 As we continue to merge the real world with the augmented, this role will become increasingly important in the future. Is there even a need to mention the great hype of Pokémon Go? This trend is very likely to continue and we will need more and more people who know how to create a gateway to the new dimension.
 
-####Future DNA “Life” Designers
-![DNA](/content/images/2016/08/design-future-1.jpg)
+### Future DNA “Life” Designers
+![DNA](/images/design-future-1.jpg)
 
 Our DNA will play an important role in our future, and it goes beyond the ‘designer babies’ concepts. Here are three ways in which DNA will change how we work on a bio and technological level; 
 
@@ -54,7 +56,7 @@ A lot of people are convinced that we are just a step away from being able to pr
 ***BioTech “DNA” Designer***
 As major corporations like Google, Amazon and Microsoft struggle to make enough investment in ‘exabyte’ storage, it appears that we are about to crack the code on DNA data storage. DNA coding should become the most efficient means of data storage known to mankind, and BioTech Designers will be in high-demand.
 
-######Conclusion
+##### Conclusion
 In today’s world, with the Internet of Things and data streaming through products in order to operate, it will never be so important for designers, engineers and developers to work together in cohesion.
 
 Would you like to be a step ahead? Our great speakers will be discussing this topic at [UXDX Conf](https://uxdxconf.com/) in November.
